@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="EgyptChars">
+    <file>Resources/a.JPG</file>
+    <file>Resources/b.JPG</file>
+    <file>Resources/backspace.JPG</file>
+    <file>Resources/c.JPG</file>
+    <file>Resources/d.JPG</file>
+    <file>Resources/e.JPG</file>
+    <file>Resources/f.JPG</file>
+    <file>Resources/g.JPG</file>
+    <file>Resources/h.JPG</file>
+    <file>Resources/i.JPG</file>
+    <file>Resources/j.JPG</file>
+    <file>Resources/k.JPG</file>
+    <file>Resources/l.JPG</file>
+    <file>Resources/m.JPG</file>
+    <file>Resources/n.JPG</file>
+    <file>Resources/o.JPG</file>
+    <file>Resources/p.JPG</file>
+    <file>Resources/q.JPG</file>
+    <file>Resources/r.JPG</file>
+    <file>Resources/s.JPG</file>
+    <file>Resources/t.JPG</file>
+    <file>Resources/u.JPG</file>
+    <file>Resources/v.JPG</file>
+    <file>Resources/w.JPG</file>
+    <file>Resources/x.JPG</file>
+    <file>Resources/y.JPG</file>
+    <file>Resources/z.JPG</file>
+  </qresource>
+</RCC>
